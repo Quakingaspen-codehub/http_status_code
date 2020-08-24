@@ -7,7 +7,7 @@
 [Getting Started](#Started)\
 [Example](#Example)\
 [Contributors](#Contributors)\
-[License](#License)\
+[License](#License)
 <h2 id="Introduction">Introduction</h2>
 This module contains a simple library with a single class to define HTTP status codes
  
