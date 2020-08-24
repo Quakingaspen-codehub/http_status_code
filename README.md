@@ -12,7 +12,8 @@
 This module contains a simple library with a single class to define HTTP status codes
  
 <h2 id="Started">Getting Started</h2>
-In order to install, open the command prompt and type:
+In order to install, open the command prompt and type ✌️:
+
 ```
 pip install http_status_code
 ```
