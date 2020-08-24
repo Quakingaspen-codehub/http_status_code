@@ -44,7 +44,7 @@ In order to use refer to the following [example](https://github.com/Quakingaspen
 <h2 id="">Contributors</h2>
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/Quakingaspen-codehub/aws_ses_service/graphs/contributors">
+<a href="https://github.com/Quakingaspen-codehub/http_status_code/graphs/contributors">
 ""
 </a>
 
